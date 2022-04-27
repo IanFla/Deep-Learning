@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e3d196d-644a-4377-a145-e86a40021984" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/processed/test.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/processed/training.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/t10k-images-idx3-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/t10k-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/t10k-labels-idx1-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/train-images-idx3-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/train-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/train-labels-idx1-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/train-labels-idx1-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/v09.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/v09.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/study/v09.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +94,7 @@
       <workItem from="1650957410928" duration="564000" />
       <workItem from="1650958005338" duration="13989000" />
       <workItem from="1650983255753" duration="440000" />
-      <workItem from="1651046191873" duration="950000" />
+      <workItem from="1651046191873" duration="5019000" />
     </task>
     <servers />
   </component>
